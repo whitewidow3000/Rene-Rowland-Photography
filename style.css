@@ -16,3 +16,8 @@ body {
     background-color: darkslategrey;
     font-family: Arial;
 }
+
+h1 {
+    color: pink;
+    size: 18pt;
+}
